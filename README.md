@@ -1,18 +1,15 @@
 ### Hi there 👋
 
-<div style="display: flex; flex-direction: row; align-items: flex-start; justify-content: flex-start;">
-  <img style="display: block" src="https://github-readme-stats.vercel.app/api?username=denshuliar&count_private=true&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats" />
-  <img style="display: block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denshuliar&langs_count=8&exclude_repo=cordova-plugin-opentok&layout=compact&hide_border=true" />
-</div>
-
-<table>
+<table cellspacing="0" cellpadding="0">
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=denshuliar&count_private=true&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats"/></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denshuliar&langs_count=8&exclude_repo=cordova-plugin-opentok&layout=compact&hide_border=true"/></td>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=denshuliar&count_private=true&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats"/>
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denshuliar&langs_count=8&exclude_repo=cordova-plugin-opentok&layout=compact&hide_border=true" />
+    </td>
   </tr>
 </table>
-
-[![Denys's github stats](https://github-readme-stats.vercel.app/api?username=denshuliar&count_private=true&show_icons=true&hide=issues&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denshuliar&langs_count=8&exclude_repo=cordova-plugin-opentok&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 My name is Denys and I am a front-end developer. I have strong experience in web and mobile development. <br /> My favourite frameworks are React and Vue.
 
