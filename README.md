@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<table cellspacing="0" cellpadding="0" style="border: none;">
+<table cellspacing="0" cellpadding="0" style="border: none; border-collapse:collapse;">
   <tr>
     <td valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=denshuliar&count_private=true&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats"/>
