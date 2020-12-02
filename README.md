@@ -4,13 +4,13 @@ My name is Denys and I am a front-end developer. I have strong experience in web
 
 Here are the technologies I can easily apply to your next project:
 
-🔧⠀Vue, Vuex, Nuxt;
-🔧⠀React, Redux, Next, React Native;
-🔧⠀Firebase, Contentful CMS;
-🔧⠀JavaScript, TypeScript;
-🔧⠀HTML5, CSS3, SCSS, SASS;
-🔧⠀Webpack, Gulp, Grunt;
-🔧⠀Intercom, Mixpanel, Amplitude.
+🔧⠀Vue, Vuex, Nuxt <br />
+🔧⠀React, Redux, Next, React Native <br />
+🔧⠀Firebase, Contentful CMS <br />
+🔧⠀JavaScript, TypeScript <br />
+🔧⠀HTML5, CSS3, SCSS, SASS <br />
+🔧⠀Webpack, Gulp, Grunt <br />
+🔧⠀Intercom, Mixpanel, Amplitude
 
 
 [![Denys's github stats](https://github-readme-stats.vercel.app/api?username=denshuliar&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
