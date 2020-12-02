@@ -14,4 +14,4 @@ Here are the technologies I can easily apply to your next project:
 🔧⠀Webpack, Gulp, Grunt <br />
 🔧⠀Intercom, Mixpanel, Amplitude
 
-[![Denys's github stats](https://github-readme-stats.vercel.app/api?username=denshuliar&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denshuliar&langs_count=6&exclude_repo=cordova-plugin-opentok&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Denys's github stats](https://github-readme-stats.vercel.app/api?username=denshuliar&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denshuliar&langs_count=8&exclude_repo=cordova-plugin-opentok&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
