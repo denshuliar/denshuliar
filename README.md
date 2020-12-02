@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<div style="display: flex;  align-items: flex-start;">
-  <img src="https://github-readme-stats.vercel.app/api?username=denshuliar&count_private=true&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats"/>
+<div style="display: flex; flex-direction: row; align-items: flex-start; justify-content: flex-start;">
+  <img src="https://github-readme-stats.vercel.app/api?username=denshuliar&count_private=true&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denshuliar&langs_count=8&exclude_repo=cordova-plugin-opentok&layout=compact&hide_border=true" />
 </div>
 
