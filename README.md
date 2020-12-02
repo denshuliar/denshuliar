@@ -15,3 +15,7 @@ Here are the technologies I can easily apply to your next project:
 🔧⠀Intercom, Mixpanel, Amplitude
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denshuliar&langs_count=4&exclude_repo=cordova-plugin-opentok)](https://github.com/anuraghazra/github-readme-stats)
+| column 1 | column 2 |
+|------------|----------|
+| [![Denys's github stats](https://github-readme-stats.vercel.app/api?username=denshuliar&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denshuliar&langs_count=4&exclude_repo=cordova-plugin-opentok)](https://github.com/anuraghazra/github-readme-stats) |
+| value | <ul><li>value 1</li><li>value 2</li></ul> |
